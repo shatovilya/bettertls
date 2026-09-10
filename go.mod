@@ -2,8 +2,6 @@ module github.com/Netflix/bettertls
 
 go 1.26.0
 
-toolchain go1.26.0
-
 require (
 	github.com/golang/protobuf v1.5.4
 	github.com/google/uuid v1.6.0
