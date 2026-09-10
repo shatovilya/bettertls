@@ -15,7 +15,7 @@ Check out the sections below for information on running those tests yourself and
 
 # Running tests
 
-Tests are built and run using [Go](https://go.dev/), with minimum version 1.16.
+Tests are built and run using [Go](https://go.dev/), with minimum version 1.26.
 
 Inside the `test-suites` directory of this repo you can run `go run ./cmd/bettertls` as the entrypoint to most functionality.
 Use `--help` to learn more about supported sub-commands and use `--help` on each sub-command to learn more about supported parameters.
